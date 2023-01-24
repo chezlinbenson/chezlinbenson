@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chezlinbenson
 - 👀 I’m interested in web development, web design, ux-ui and graphic design
-- 🌱 I’m currently learning Web development (HTML, CSS & Javascript).
+- 🌱 I’m currently learning Web development (HTML, CSS, Javascript, NodeJS, React, SQL).
 - 💞️ I’m looking to collaborate on design and beginner coding projects.
 - 📫 How to reach me:
      Github: https://github.com/chezlinbenson
