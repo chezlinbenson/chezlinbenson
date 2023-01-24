@@ -8,9 +8,9 @@
      Github: https://github.com/chezlinbenson
      LinkedIn: https://www.linkedin.com/in/chezlin-benson/
      
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)]      (https://github.com/anuraghazra/github-readme-stats)
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chezlinbenson&layout=compact&theme=vision-friendly-dark)](https://github.com/chezlinbenson/github-readme-stats)
      
-     [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
+     [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chezlinbenson&theme=dark&background=000000)](https://git.io/streak-stats)
      
 <!---
 chezlinbenson/chezlinbenson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
